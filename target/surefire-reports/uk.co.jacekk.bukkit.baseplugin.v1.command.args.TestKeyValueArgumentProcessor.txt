@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uk.co.jacekk.bukkit.baseplugin.v1.command.args.TestKeyValueArgumentProcessor
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
